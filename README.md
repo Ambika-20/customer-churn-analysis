@@ -64,19 +64,19 @@ The report is organized into three pages, each focusing on a different business 
 ### 1. 📌 Overview
 *How many customers leave, and how does churn vary across contract types?*
 
-![Customer Churn Dashboard — Overview](screenshots/overview.png)
+![Customer Churn Dashboard — Overview](Images/overview.png)
 
 ### 2. 🔍 Churn Drivers
 *What reasons do customers report for leaving, and which patterns deserve attention?*
 
-![Customer Churn Dashboard — Churn Drivers](screenshots/churn-drivers.png)
+![Customer Churn Dashboard — Churn Drivers](Images/churn-drivers.png)
 
 ### 3. 👥 Customer Segments
 *How does churn vary across customer groups, services, and offers?*
 
-![Customer Churn Dashboard — Customer Segments](screenshots/customer-segments.png)
+![Customer Churn Dashboard — Customer Segments](Images/customer-segments.png)
 
-📂 **Power BI report:** [`dashboard/`](dashboard/)
+📂 **Power BI report:** [`dashboard/`](Dashboard/)
 
 *Open the `.pbix` file in Microsoft Power BI Desktop to explore the report.*
 
@@ -163,9 +163,9 @@ customer-churn-analysis/
 
 ## 📚 Project Documentation
 
-- 📋 [Business Requirements Document](documentation/business-requirements.md) — business background, problem statement, objectives, scope, and requirements.
-- 💡 [Findings & Recommendations](documentation/findings-and-recommendations.md) — detailed analytical results, interpretations, and suggested business actions.
-- 🗄️ [Dataset Documentation](data/README.md) — dataset overview, categories, and source attribution.
+- 📋 [Business Requirements Document](Documentation/Business-requirements.md) — business background, problem statement, objectives, scope, and requirements.
+- 💡 [Findings & Recommendations](Documentation/Findings-and-recommendations.md) — detailed analytical results, interpretations, and suggested business actions.
+- 🗄️ [Dataset Documentation](Data/README.md) — dataset overview, categories, and source attribution.
 - 💻 [SQL Scripts](sql/) — queries used for data exploration and analysis.
 
 ## ⚠️ Limitations
