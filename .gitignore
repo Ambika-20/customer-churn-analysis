@@ -1,0 +1,6 @@
+# Ignore the entire analysis folder
+analysis/
+
+# Ignore temporary files
+*.tmp
+*.log
